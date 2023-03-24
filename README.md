@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoHerick&layout=compact&hide_border=true&title_color=A200FF&text_color=A200FF&bg_color=2F3136" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FernandoHerick&bg_color=2F3136&color=A200FF)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FernandoHerick&bg_color=2F3136&title_color=A200FF&color=A200FF)
 
 <div style="display: inline_block"><br>
 - ☔ Hoje estou aprendendo front-end
